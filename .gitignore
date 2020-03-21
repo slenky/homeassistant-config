@@ -4,7 +4,8 @@ logs
 # Python cache
 __pycache__
 *.pyc
-
+.storage
+.ps4-games.json
 # Other
 *.uuid
 *.conf
